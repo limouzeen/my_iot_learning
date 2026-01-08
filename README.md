@@ -56,4 +56,4 @@ To run this project locally:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/limouzeen/my_iot_learning
+   git clone https://github.com/limouzeen/my_iot_learning.git
