@@ -23,14 +23,19 @@ A personal learning journal application built with **Flutter**. This app helps m
 
 ## 📸 Screenshots (รูปตัวอย่าง)
 
+
+
 | Home Screen | Add/Edit Log |
 |:---:|:---:|
-| <img src="screenshots/home.png" width="250" /> | <img src="screenshots/add.png" width="250" /> |
+| <img src="https://github.com/user-attachments/assets/b7d9db35-dbc7-4395-a422-5e7c8fdee0f6" width="250" /> | <img src="https://github.com/user-attachments/assets/adf2b158-504b-400b-8186-eb4aff143e6f" width="250" /> |
 | **หน้าแสดงรายการ** | **หน้าเพิ่มบันทึก** |
+
+
+
 
 | Detail & Code | Search |
 |:---:|:---:|
-| <img src="screenshots/detail.png" width="250" /> | <img src="screenshots/search.png" width="250" /> |
+| <img src="https://github.com/user-attachments/assets/34be4f29-666a-4567-bbb8-91fdda07cfcf" width="250" /> | <img src="https://github.com/user-attachments/assets/161f9647-8313-4039-aa03-f758674b3076" width="250" /> |
 | **หน้ารายละเอียด & โค้ด** | **หน้าค้นหา** |
 
 ---
